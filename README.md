@@ -9,7 +9,7 @@ Este é um projeto de site para a avaliação de Front-End, que avalia a capacid
 
 ## 📁 Estrutura do Projeto
 O projeto foi organizado seguindo boas práticas de mercado:
-/
+/  
 ├── index.html  
 └── src/  
     ├── styles/  (Estilos da página)  

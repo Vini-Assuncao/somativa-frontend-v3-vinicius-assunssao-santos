@@ -10,11 +10,11 @@ Este é um projeto de site para a avaliação de Front-End, que avalia a capacid
 ## 📁 Estrutura do Projeto
 O projeto foi organizado seguindo boas práticas de mercado:
 /
-├── index.html
-└── src/
-    ├── styles/  (Estilos da página)
+├── index.html  
+└── src/  
+    ├── styles/  (Estilos da página)  
     ├── scripts/ (Lógica de interação)
-    └── images/  (Ativos visuais)
+    └── images/  (Ativos visuais)  
 
 ## 🚀 Funcionalidades Implementadas
 * **Interatividade Visual:** O banner principal do site muda a suas cores e seu tamanho quando o usuário passa o mouse sobre ele.

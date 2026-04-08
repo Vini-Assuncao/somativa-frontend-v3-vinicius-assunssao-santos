@@ -12,9 +12,9 @@ O projeto foi organizado seguindo boas práticas de mercado:
 /  
 ├── index.html  
 └── src/  
-    ├── styles/  (Estilos da página)  
-    ├── scripts/ (Lógica de interação)
-    └── images/  (Ativos visuais)  
+        ├── styles/  (Estilos da página)  
+        ├── scripts/ (Lógica de interação)
+        └── images/  (Ativos visuais)  
 
 ## 🚀 Funcionalidades Implementadas
 * **Interatividade Visual:** O banner principal do site muda a suas cores e seu tamanho quando o usuário passa o mouse sobre ele.
